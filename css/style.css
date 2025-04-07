@@ -107,10 +107,6 @@ p {
   letter-spacing: 1px;
 }
 
-.w-full {
-  width: 100%;
-}
-
 .relative {
   position: relative;
 }
@@ -151,11 +147,21 @@ p {
   font-size: 16px;
 }
 
+.h-385px {
+  height: 385px;
+}
+
 @media (min-width: 640px) {
   .sm\:text-60 {
     font-size: 60px;
   }
   .sm\:text-20 {
     font-size: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:h-689px {
+    height: 689px;
   }
 }
