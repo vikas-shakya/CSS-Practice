@@ -29,25 +29,6 @@ h1 {
 p {
   margin: 0;
 }
-/* .block {
-  display: block;
-} */
-
-/* .inline-block {
-  display: inline-block;
-} */
-
-/* .inline {
-  display: inline-block;
-} */
-
-/* .hidden {
-  display: none;
-} */
-
-/* .flex {
-  display: flex;
-} */
 
 .justify-between {
   justify-content: space-between;
@@ -114,10 +95,6 @@ p {
   border-radius: 999px;
 }
 
-/* .font-bold {
-  font-weight: bold;
-} */
-
 .uppercase {
   text-transform: uppercase;
 }
@@ -133,9 +110,6 @@ p {
 .w-full {
   width: 100%;
 }
-
-/* .h-full {
-} */
 
 .relative {
   position: relative;
