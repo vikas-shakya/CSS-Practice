@@ -1,7 +1,3 @@
-.bg-gray-900 {
-  background-color: #121826;
-}
-
 .text-white {
   color: white;
 }
@@ -13,6 +9,7 @@ body {
   These does not work in windows
 
   */
+  background-color: #121826;
 
   margin: 0;
   font-family: "Lato", sans-serif;
@@ -23,10 +20,6 @@ button {
 }
 
 h1 {
-  margin: 0;
-}
-
-p {
   margin: 0;
 }
 
@@ -147,8 +140,8 @@ p {
   font-size: 16px;
 }
 
-.h-385px {
-  height: 385px;
+.h-520px {
+  height: 520px;
 }
 
 @media (min-width: 640px) {
@@ -163,5 +156,9 @@ p {
 @media (min-width: 768px) {
   .md\:h-689px {
     height: 689px;
+  }
+
+  .md\:mt-80px {
+    margin-top: 20px;
   }
 }
