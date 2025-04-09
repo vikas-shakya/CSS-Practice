@@ -22,11 +22,6 @@ A modern and responsive landing page built using HTML, CSS, and Tailwind-inspire
 - Tailwind CSS (CDN-based, minimal usage)
 - Google Fonts
 
-## 📂 Folder Structure
-
-
-
-
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
